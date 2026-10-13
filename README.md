@@ -27,3 +27,5 @@ Le test de recherche des salles par capacité minimale est réussi.
 ## Image 5
 
 Le test de recherche des salles par capacité maximale est réussi.
+
+![Image 5 : recherche des salles par capacité maximale](images/capacite-maximale.jpg)
